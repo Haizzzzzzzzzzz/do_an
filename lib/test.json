@@ -1,0 +1,175 @@
+{
+    "data": [
+        {
+            "id": 83,
+            "attributes": {
+                "order_number": "ORD-1734580918732",
+                "createdAt": "2024-12-19T03:59:50.864Z",
+                "updatedAt": "2024-12-19T03:59:50.864Z",
+                "publishedAt": "2024-12-19T03:59:50.851Z",
+                "total_price": "500",
+                "status": "Pending",
+                "shipping_address": "hâh",
+                "recipient_phone": "13",
+                "recipient_email": "qjah@gmail.com",
+                "customer": "c@gmail.com",
+                "payment": "cod",
+                "order_details": null,
+                "order_items": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "id": 84,
+            "attributes": {
+                "order_number": "ORD-1734582221076",
+                "createdAt": "2024-12-19T04:21:33.170Z",
+                "updatedAt": "2024-12-19T04:21:33.170Z",
+                "publishedAt": "2024-12-19T04:21:33.167Z",
+                "total_price": "401260",
+                "status": "Pending",
+                "shipping_address": "hehe",
+                "recipient_phone": "113",
+                "recipient_email": "a@gmail.com",
+                "customer": "c@gmail.com",
+                "payment": "cod",
+                "order_details": null,
+                "order_items": {
+                    "data": [
+                        {
+                            "id": 7,
+                            "attributes": {
+                                "name": "iPhone 16 Pro",
+                                "description": "Hệ điều hành: iOS 18\n\nChip xử lý (CPU): Apple A18 Pro 6 nhân\n\nTốc độ CPU: Hãng không công bố\n\nChip đồ họa (GPU): Apple GPU 6 nhân\n\nRAM: 8 GB",
+                                "createdAt": "2024-09-20T17:16:14.766Z",
+                                "updatedAt": "2024-10-17T14:49:38.441Z",
+                                "publishedAt": "2024-09-20T17:16:15.635Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 85,
+            "attributes": {
+                "order_number": "ORD-1734582329732",
+                "createdAt": "2024-12-19T04:23:21.806Z",
+                "updatedAt": "2024-12-19T04:23:21.806Z",
+                "publishedAt": "2024-12-19T04:23:21.804Z",
+                "total_price": "1680",
+                "status": "Pending",
+                "shipping_address": "hehe",
+                "recipient_phone": "666",
+                "recipient_email": "a@gmail.com",
+                "customer": "c@gmail.com",
+                "payment": "cod",
+                "order_details": null,
+                "order_items": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "id": 86,
+            "attributes": {
+                "order_number": "ORD-1734583396837",
+                "createdAt": "2024-12-19T04:41:08.955Z",
+                "updatedAt": "2024-12-19T04:41:08.955Z",
+                "publishedAt": "2024-12-19T04:41:08.953Z",
+                "total_price": "1250",
+                "status": "Pending",
+                "shipping_address": "test",
+                "recipient_phone": "113",
+                "recipient_email": "tesst@gmail.com",
+                "customer": "c@gmail.com",
+                "payment": "cod",
+                "order_details": "Marshall Woburn 3 - Black x 1\n\nMàn hình LG OLED evo C3 - 27 inch x 1\n\niPad Pro M4 11 inch - M4 - 1TB x 1",
+                "order_items": {
+                    "data": [
+                        {
+                            "id": 5,
+                            "attributes": {
+                                "name": "Marshall Woburn 3",
+                                "description": "Thiết kế Vintage, sang trọng\n\nLoa Marshall Woburn III sở hữu thiết kế tương tự như thế hệ tiền nhiệm – Marshall Woburn 2, với lối thiết kế được tạo nên theo phong cách hoài cổ, nhưng không kém phần sang trọng của logo Marshall được tạo nên từ chất liệu vàng đồng.",
+                                "createdAt": "2024-09-20T17:15:23.354Z",
+                                "updatedAt": "2024-10-17T14:39:01.754Z",
+                                "publishedAt": "2024-09-20T17:15:25.279Z"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "attributes": {
+                                "name": "Màn hình LG OLED evo C3",
+                                "description": "Những sản phẩm đầu tiên mang tính biểu tượng với các yếu tố hình thức quyến rũ thách thức trí tưởng tượng của bạn. Một bức ảnh tươi sáng hơn, táo bạo hơn2,3,4, rất chân thực, bạn cảm thấy mình như là một phần của cảnh.",
+                                "createdAt": "2024-09-20T17:15:47.685Z",
+                                "updatedAt": "2024-10-17T14:53:51.151Z",
+                                "publishedAt": "2024-09-20T17:15:52.483Z"
+                            }
+                        },
+                        {
+                            "id": 8,
+                            "attributes": {
+                                "name": "iPad Pro M4 11 inch",
+                                "description": "Thiết kế siêu mỏng, gọn nhẹ để mang đi khắp nơi\nMàn hình Ultra Retina XDR sử dụng công nghệ OLED hai lớp\nChip Apple M4 mạnh mẽ kết hợp nhiều tính năng AI hiện đại\nMagic Keyboard có thiết kế mới, mỏng và mượt hơn",
+                                "createdAt": "2024-10-17T15:08:34.776Z",
+                                "updatedAt": "2024-10-17T15:09:24.097Z",
+                                "publishedAt": "2024-10-17T15:09:24.094Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 87,
+            "attributes": {
+                "order_number": "ORD-1734583513195",
+                "createdAt": "2024-12-19T04:43:05.294Z",
+                "updatedAt": "2024-12-19T04:43:05.294Z",
+                "publishedAt": "2024-12-19T04:43:05.291Z",
+                "total_price": "1580",
+                "status": "Pending",
+                "shipping_address": "test2",
+                "recipient_phone": "333",
+                "recipient_email": "a@gmail.com",
+                "customer": "c@gmail.com",
+                "payment": "cod",
+                "order_details": "Apple Watch Series 10 GPS - Cellular 46mm x 2\n\nSony Xperia - 10VI 8GB 128GB x 2",
+                "order_items": {
+                    "data": [
+                        {
+                            "id": 4,
+                            "attributes": {
+                                "name": "Apple Watch Series 10 GPS",
+                                "description": "Công nghệ màn hình: OLED\n\nKích thước màn hình: Hãng không công bố\n\nĐộ phân giải: 416 x 496 pixels\n\nKích thước mặt: 46 mm",
+                                "createdAt": "2024-09-20T17:14:58.442Z",
+                                "updatedAt": "2024-10-17T14:56:33.777Z",
+                                "publishedAt": "2024-09-20T17:14:59.060Z"
+                            }
+                        },
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "name": "Sony Xperia",
+                                "description": "Điện thoại Sony Xperia  là sản phẩm thuộc thương hiệu SONY, thương hiệu nổi tiếng với các thiết bị quay chụp. Vậy điện thoại mới này có gì nổi bật đáng để mua trải nghiệm? Dưới đây là top 4 lý do nên mua Sony Xperia 1 VI",
+                                "createdAt": "2024-09-20T17:10:22.864Z",
+                                "updatedAt": "2024-10-17T10:19:42.294Z",
+                                "publishedAt": "2024-09-20T17:10:29.084Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 5
+        }
+    }
+}
