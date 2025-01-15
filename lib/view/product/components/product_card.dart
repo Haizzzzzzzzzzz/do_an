@@ -79,7 +79,7 @@ class ProductCard extends StatelessWidget {
                     ),
                     const SizedBox(height: 5),
                     Text(
-                      '\$${NumberFormat('#,##0', 'vi').format(product.tags.first.price)}',
+                      '${NumberFormat('#,##0', 'vi').format(product.tags.first.price)} ₫',
                       style: const TextStyle(fontSize: 12, color: Colors.grey),
                     ),
                   ],

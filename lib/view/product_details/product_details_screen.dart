@@ -52,7 +52,7 @@ class _ProductDetailsScreenState extends State<ProductDetailsScreen> {
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 10),
                 child: Text(
-                  '\$${NumberFormat('#,##0', 'vi').format(widget.product.tags[_selectedTagIndex].price)}',
+                  '${NumberFormat('#,##0', 'vi').format(widget.product.tags[_selectedTagIndex].price)} ₫',
                   style: TextStyle(
                     fontSize: 18,
                     color: themeController.isDarkMode
